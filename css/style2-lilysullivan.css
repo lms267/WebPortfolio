@@ -1,0 +1,23 @@
+body {
+
+    background-color: rgb(191, 217, 204);
+    max-width: 750px;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    color:dimgrey;
+    line-height: 1.6;}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-weight: normal;
+    color: #000000;
+    text-align: left;
+    letter-spacing: 1.5px;
+    margin: 15px 0;}
+image {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    text-align: center;
+    margin: 20px auto}
