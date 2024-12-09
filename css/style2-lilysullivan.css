@@ -21,3 +21,12 @@ image {
     display: block;
     text-align: center;
     margin: 20px auto}
+nav {
+    margin-bottom: 20px;}
+nav a {
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;}
+nav a:hover {
+    color: darkblue;
+    text-decoration: underline;}
